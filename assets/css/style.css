@@ -1,0 +1,49 @@
+.bg-navbar {
+    background: rgba(2, 0, 36, 0.452);
+  }
+  
+  .carousel-item img {
+    height: 700px;
+    object-fit: cover;
+  }
+  #sec-trabajos .card > img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Text shadow generator https://cssgenerator.org/text-shadow-css-generator.html */
+  .carousel-caption h5 {
+    font-family: "lobster", cursive;
+    text-shadow: -1px 2px 10px black;
+  }
+
+  p {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .custom-icon:hover {
+    color:crimson
+  }
+hr{
+    border-color: aqua;
+    border-block-start-width: 3px;
+}
+.hr1{
+    border-color: aqua;
+    border-block-end-width: 0.5px;
+}
+.centrado{
+    text-align: center;
+}
+h2{
+    font-family: lobster;
+    text-align: center;
+    font-size: 70px;
+}
+h4{
+    font-family: lobster;
+
+}
+.textlogo{
+    font-family: lobster;
+}
