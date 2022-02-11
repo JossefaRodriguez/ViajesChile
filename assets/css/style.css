@@ -12,12 +12,12 @@
   }
 
   .carousel-caption h5 {
-    font-family: lobster;
+    font-family: "lobster", cursive;
     text-shadow: -1px 2px 10px black;
   }
 
   p {
-    font-family: "Roboto";
+    font-family: "Roboto", cursive;
   }
   .custom-icon:hover {
     color:crimson

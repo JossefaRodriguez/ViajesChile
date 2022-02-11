@@ -12,6 +12,9 @@ $(document).ready(function () {
         }
     });
 
-    // Activacion de Pop Over
+    //Pop Over
     $('[data-toggle="popover"]').popover()
 });
+$(function(){
+    $("#enviarCorreo").click(function(_event)
+    { alert("El correo fue enviado correctamente") }); });
